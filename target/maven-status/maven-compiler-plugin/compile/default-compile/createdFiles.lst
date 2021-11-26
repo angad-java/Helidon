@@ -1,0 +1,16 @@
+io\helidon\example\jpa\ExampleApplication.class
+io\helidon\health\HelidonReadiness.class
+io\helidon\example\jpa\Greeting_.class
+io\helidon\exception\HelidonbarException.class
+io\helidon\exception\HelidonbarResponseGenerator.class
+io\helidon\fault\HelidonbarFallbackHandler.class
+io\helidon\fault\HelidonbarResponseGenerator.class
+io\helidon\fault\IHelidonbarFaultToleranceApi.class
+io\helidon\example\jpa\Main.class
+io\helidon\example\jpa\ExampleResource.class
+io\helidon\health\HelidonbarLiveness.class
+io\helidon\fault\HelidonbarFaultToleranceApi.class
+io\helidon\metrics\HelidonbarMetricsGauge.class
+io\helidon\exception\HelidonbarExceptionMapper.class
+io\helidon\example\jpa\Greeting.class
+io\helidon\fault\CircuitBreakerOpenExceptionHandler.class

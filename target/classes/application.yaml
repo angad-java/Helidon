@@ -1,0 +1,13 @@
+server:
+  port: 8085
+
+oracle:
+  ucp:
+    jdbc:
+      PoolDataSource:
+        greetingDataSource:
+          URL: jdbc:oracle:thin:@localhost:1522/genx
+          connectionFactoryClassName: oracle.jdbc.pool.OracleDataSource
+          password: hr
+          user: hr
+
